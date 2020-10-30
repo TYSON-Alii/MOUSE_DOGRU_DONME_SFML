@@ -1,1 +1,1 @@
-bu kodda SFML için karakterinizi mouse işaretçisine nasıl döndürülür onu gösterdim :)
+bu kodda SFML için karakterinizi mouse işaretçisine nasıl doğru döndürülür onu gösterdim :)
