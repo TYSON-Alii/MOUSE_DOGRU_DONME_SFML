@@ -1,1 +1,1 @@
-bu kodda SFML için rakteri mouse işaretçisine nasıl döndürülür onu gösterdim :)
+bu kodda SFML için  mouse işaretçisine nasıl döndürülür onu gösterdim :)
