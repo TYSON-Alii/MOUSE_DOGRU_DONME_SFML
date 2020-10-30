@@ -1,1 +1,1 @@
-bu kodda karakteri mouse işaretçisine nasıl döndürülür onu gösterdim :)
+bu kodda arakteri mouse işaretçisine nasıl döndürülür onu gösterdim :)
